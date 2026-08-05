@@ -9,6 +9,7 @@ This repository holds target-state assessment material, technical notes, and sup
 | Document | Purpose |
 |---|---|
 | [Apex-Plastics-D2C-Target-Architecture-Assessment.md](./Apex-Plastics-D2C-Target-Architecture-Assessment.md) | Full target architecture assessment (platforms, integration, MDM, roadmap, ADRs) |
+| [Apex-Plastics-D2C-CLevel-Overview.pptx](./Apex-Plastics-D2C-CLevel-Overview.pptx) | C-level overview deck (5 slides) — why now, target architecture, platform choices, roadmap, decisions & risks |
 
 ## Architecture thesis (short)
 
