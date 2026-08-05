@@ -9,7 +9,6 @@ This repository holds target-state assessment material, technical notes, and sup
 | Document | Purpose |
 |---|---|
 | [Apex-Plastics-D2C-Target-Architecture-Assessment.md](./Apex-Plastics-D2C-Target-Architecture-Assessment.md) | Full target architecture assessment (platforms, integration, MDM, roadmap, ADRs) |
-| [Apex-Plastics-Technical-Architecture-Compendium.md](./Apex-Plastics-Technical-Architecture-Compendium.md) | Supporting technical architecture reference |
 
 ## Architecture thesis (short)
 
